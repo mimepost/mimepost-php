@@ -2,17 +2,26 @@
     "name": "mimepost/mimepost-php",
     "description": "",
     "keywords": [
+        "MimePost",
         "swagger",
         "php",
         "sdk",
         "api"
     ],
-    "homepage": "http://swagger.io",
-    "license": "proprietary",
+    "homepage": "https://mimepost.com/",
+    "license": "MIT",
     "authors": [
+        {
+            "name": "MimePost Developers Team",
+            "homepage": "https://github.com/mimepost"
+        },
         {
             "name": "Swagger and contributors",
             "homepage": "https://github.com/swagger-api/swagger-codegen"
+        },
+        {
+            "name": "Tabrez Shaikh",
+            "homepage": "https://github.com/itabrezshaikh/"
         }
     ],
     "require": {
