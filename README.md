@@ -3,6 +3,7 @@ MimePost API for sending email.  You can find out more about MimePost at [https:
 
 [![Latest Version](https://img.shields.io/github/v/release/mimepost/mimepost-php.svg?style=flat-square)](https://github.com/mimepost/mimepost-php/releases)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/mimepost/mimepost-php.svg?style=flat-square)](https://scrutinizer-ci.com/g/mimpost/mimepost-php)
+[![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/dwyl/hapi-auth-jwt2?targetFile=composer.json)
 [![Total Downloads](https://img.shields.io/packagist/dt/mimepost/mimepost-php.svg?style=flat-square)](https://packagist.org/packages/mailgun/mailgun-php)
 
 
