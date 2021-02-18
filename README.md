@@ -2,7 +2,6 @@
 MimePost API for sending email.  You can find out more about MimePost at [https://mimepost.com](http://mimepost.com). For obtaining the value of *X-Auth-Token* you will need to first signup on [MimePost](https://mimepost.com/signup/?utm_campaign=gitphpsdk)
 
 [![Latest Version](https://img.shields.io/github/v/release/mimepost/mimepost-php.svg?style=flat-square)](https://github.com/mimepost/mimepost-php/releases)
-[![Code Covrage](https://img.shields.io/scrutinizer/coverage/g/mimepost/mimepost-php.svg?style=flat-square)](https://scrutinizer-ci.com/g/mimpost/mimepost-php)
 [![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/dwyl/hapi-auth-jwt2?targetFile=composer.json)
 [![codecov.io Code Coverage](https://img.shields.io/codecov/c/github/dwyl/hapi-auth-jwt2.svg?maxAge=2592000)](https://codecov.io/github/dwyl/hapi-auth-jwt2?branch=master)
 [![Total Downloads](https://img.shields.io/packagist/dt/mimepost/mimepost-php.svg?style=flat-square)](https://packagist.org/packages/mailgun/mailgun-php)
